@@ -52,4 +52,4 @@ Este exemplo prático demonstra como usar um laço `for` para iterar sobre opç�
 
 * Geovana Lima
 
-![](img/img_geo.png)
+<img src="img/img_geo.png" width="200px">
