@@ -33,7 +33,7 @@ A sintaxe básica de um laço `for` varia entre diferentes linguagens de program
 
 * Incrementa numeroSelecionadas para cada opção que estiver selecionada.
 
-*Retorna o número total de opções selecionadas.
+* Retorna o número total de opções selecionadas.
 
 * Evento click:
 
@@ -41,6 +41,9 @@ A sintaxe básica de um laço `for` varia entre diferentes linguagens de program
 
 * Quando o botão é clicado, exibe um alerta com o número total de opções selecionadas, chamando a função how
 
+# Conclusão
+Os laços `for` são essenciais para a programação, permitindo a execução repetitiva de blocos de código com base em condições específicas. 
+Este exemplo prático demonstra como usar um laço `for` para iterar sobre opções selecionadas em um formulário, tornando-o uma ferramenta poderosa para automatizar tarefas repetitivas e manipular coleções de dados.
 # Foto do Site 
 
 ![](img/img2.png)
@@ -50,4 +53,3 @@ A sintaxe básica de um laço `for` varia entre diferentes linguagens de program
 * Geovana Lima
 
 ![](img/img_geo.png)
-

@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(#00ffd5, #002bff, #7a00ff, #ff00c8);
+    background: linear-gradient( #002bff, #7a00ff, #ff00c8);
     background-size: 150% 160%;
 
 }
@@ -39,7 +39,7 @@ input[type="button"] {
     width: 100%;
     padding: 10px;
     margin-top: 10px;
-    background: linear-gradient(45deg, #00ffd5, #002bff, #7a00ff, #ff00c8);
+    background: linear-gradient(45deg, #002bff, #7a00ff, #ff00c8);
     color: black;
     border: none;
     border-radius: 5px;
